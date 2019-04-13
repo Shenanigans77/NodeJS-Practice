@@ -19,6 +19,7 @@
     "express-session": "*",
     "express-messages": "*",
     "multer": "*",
-    "moment": "*"
+    "moment": "*",
+    "mongodb": "*"
   }
 }
